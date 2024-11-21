@@ -1,0 +1,8 @@
+form .form-control {
+    border-radius: 0.5rem;
+    padding: 0.75rem;
+}
+
+.form-label {
+    font-weight: 500;
+}
